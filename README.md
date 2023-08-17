@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">I'm an eager student, learning more about ML/AI</h3>
+<h3 align="center">I'm an eager student learning more about ML/AI</h3>
 
 - 🔭 I’m currently working on [a chatbot for my school, SUNY Brockport](https://github.com/msaad02/honors-thesis)
 
